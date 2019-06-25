@@ -1,0 +1,22 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "자바스크립트 모듈러인 Webpack를 실습하기 위한 소스 코드입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yejin0216/webpack-boilerplate.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "yejin kim (yejin0216@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yejin0216/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/yejin0216/webpack-boilerplate#readme"
+}
