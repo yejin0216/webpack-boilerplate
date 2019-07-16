@@ -1,7 +1,7 @@
 /**
  * 도서 목록을 세팅하는 화면이다. 
  * 
- * @author yejin kim
+ * @author 김예진
  */
 import { __book_data } from "../data/book.js"
 
