@@ -14,15 +14,21 @@
   ```
 5. 터미널에서 Workspace로 이동한 뒤 프로젝트 복사
   ```
-  https://github.com/yejin0216/webpack-boilerplate.git
+  git clone https://github.com/yejin0216/words-light-library.git
   ```
 
 ## 디렉토리 구성 
-```
-src / 
- asset /
- | - 
- component / 
- | - 
- index.html
-```
+  ```
+  src / 
+     asset /
+        scss / 
+            | - theme.scss
+     component / 
+        business /
+            | - checkout.js
+            | - list.js
+        data / 
+            | - book.js
+        | - app.js
+     index.html
+  ```
