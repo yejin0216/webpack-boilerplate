@@ -40,3 +40,16 @@ $headings-font-weight: 200;
 $lead-font-size:   1.30rem;
 
 $spacer: 1.5rem;
+
+/* custom area */
+.row__header { 
+  font-weight: bold;
+  padding: 10px 0;
+  border-bottom: 2px solid #ccc;
+}
+
+.row__list {
+  font-size: 12px;
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
