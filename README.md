@@ -1,4 +1,4 @@
-# Webpack boilerplate  
+# words-light-library  
 
 ## 설명
 자바스크립트 모듈러인 Webpack를 실습하기 위한 소스 코드입니다.
